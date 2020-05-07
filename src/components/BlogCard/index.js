@@ -56,7 +56,7 @@ export const BlogCard = ({ node, ...rest }) => (
         {node.frontmatter.title}
       </Heading>
       {node.frontmatter.version && (
-        <Text size="small" color="neutral-4">
+        <Text size="small" color="purple">
           {node.frontmatter.version}
         </Text>
       )}

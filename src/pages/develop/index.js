@@ -118,21 +118,11 @@ class Develop extends React.Component {
                     in the Enterprise
                   </Description>
                   <Box direction="row-responsive" gap="medium">
-                    <Link to="/platforms" color="neutral-4">
-                      Platforms
-                    </Link>
-                    <Link to="/devops" color="neutral-4">
-                      DevOps
-                    </Link>
-                    <Link to="/documentation" color="neutral-4">
-                      Documentation
-                    </Link>
-                    <Link to="/videos" color="neutral-4">
-                      Videos
-                    </Link>
-                    <Link to="/downloads" color="neutral-4">
-                      Downloads
-                    </Link>
+                    <Link to="/platforms">Platforms</Link>
+                    <Link to="/devops">DevOps</Link>
+                    <Link to="/documentation">Documentation</Link>
+                    <Link to="/videos">Videos</Link>
+                    <Link to="/downloads">Downloads</Link>
                   </Box>
                 </Card>
 
@@ -186,9 +176,7 @@ class Develop extends React.Component {
                     >
                       <Box>
                         <Heading3>{node.frontmatter.title}</Heading3>
-                        <Text color="neutral-4" size="small">
-                          {node.frontmatter.version}
-                        </Text>
+                        <Text size="small">{node.frontmatter.version}</Text>
                       </Box>
                       <Description>{node.frontmatter.description}</Description>
                     </Platform>

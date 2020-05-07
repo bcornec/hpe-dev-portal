@@ -1,10 +1,10 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { Anchor } from 'grommet';
+import { Button } from 'grommet';
 import { navigate } from 'gatsby';
 
 const Link = ({ to, ...rest }) => (
-  <Anchor
+  <Button
     href={to}
     onClick={ev => {
       navigate(to);
