@@ -1,8 +1,8 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { hpe } from 'hpe-design-system';
 import { Grommet, Box } from 'grommet';
 
-import theme from './theme';
 import './reset.css';
 import { Footer, Header } from '../index';
 
@@ -13,7 +13,7 @@ class Layout extends React.Component {
     return (
       <Grommet
         full
-        theme={theme}
+        theme={hpe}
         style={{
           display: 'flex',
           flexDirection: 'column',

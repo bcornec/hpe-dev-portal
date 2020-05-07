@@ -5,12 +5,12 @@ import { Box, Heading, Image, Markdown, Text } from 'grommet';
 import { Link as GatsbyLink } from 'gatsby';
 
 const colors = {
-  develop: 'accent-4', // HPE Yellow
-  design: 'accent-2', // HPE Medium Purple
+  develop: 'yellow', // HPE Yellow
+  design: 'purple', // HPE Medium Purple
   event: 'status-unknown',
-  community: 'neutral-1', // HPE Dark Blue
-  'open source': 'accent-2', // HPE Medium Purple
-  research: 'accent-1', // HPE Medium Blue
+  community: 'blue', // HPE Dark Blue
+  'open source': 'purple', // HPE Medium Purple
+  research: 'blue', // HPE Medium Blue
 };
 
 const NavLink = styled(GatsbyLink)`
@@ -111,7 +111,7 @@ export const Card = ({
     }}
   >
     <Box align="end">
-      <Text color="light-5">{category}</Text>
+      <Text color="dark-5">{category}</Text>
     </Box>
     <NavLink to={link}>
       <Box
