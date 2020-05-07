@@ -44,6 +44,7 @@ const components = {
     props: {
       margin: { top: 'none', bottom: 'xsmall' },
       level: 1,
+      color: 'dark-1',
     },
   },
   h2: {
@@ -51,6 +52,7 @@ const components = {
     props: {
       margin: { top: 'none', bottom: 'xsmall' },
       level: 2,
+      color: 'dark-1',
     },
   },
   h3: {
@@ -58,6 +60,7 @@ const components = {
     props: {
       margin: { top: 'none', bottom: 'xsmall' },
       level: 3,
+      color: 'dark-1',
     },
   },
   h4: {
@@ -65,6 +68,7 @@ const components = {
     props: {
       margin: { top: 'none', bottom: 'none' },
       level: 4,
+      color: 'dark-1',
       style: {
         fontWeight: 'normal',
       },
