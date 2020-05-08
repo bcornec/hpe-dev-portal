@@ -27,10 +27,10 @@ function Header() {
       justify="between"
     >
       <Link to="/">
-        <Text weight="bold" color="dark-1">
+        <Text weight={700} color="dark-1">
           HPE{' '}
         </Text>
-        <Text weight="light" color="dark-1">
+        <Text weight={400} color="dark-1">
           Developer
         </Text>
       </Link>

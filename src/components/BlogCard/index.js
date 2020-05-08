@@ -61,9 +61,11 @@ export const BlogCard = ({ node, ...rest }) => {
               level={2}
               size="small"
               margin={{ top: 'none', bottom: 'none' }}
-              // Handle html entities in titles
-              dangerouslySetInnerHTML={{ __html: node.frontmatter.title }}
-            />
+            >
+              <span // Handle html entities in titles
+                dangerouslySetInnerHTML={{ __html: node.frontmatter.title }}
+              />
+            </Heading>
             {node.frontmatter.version && (
               <Text size="small" color="red">
                 {node.frontmatter.version}
