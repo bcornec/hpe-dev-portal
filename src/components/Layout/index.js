@@ -23,7 +23,7 @@ class Layout extends React.Component {
         }}
       >
         <Header />
-        <Box flex as="main">
+        <Box flex as="main" width="xxlarge" alignSelf="center">
           {children}
         </Box>
         <Footer />
