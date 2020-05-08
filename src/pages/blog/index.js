@@ -16,10 +16,12 @@ function Blog({ data }) {
       <SEO title="Blog" />
       <Box flex overflow="auto" gap="medium" pad="small">
         <Box flex={false} direction="row-responsive" wrap>
-          <Box pad={{ vertical: 'large', horizontal: 'large' }}>
-            <Heading margin="none">Blog</Heading>
+          <Box pad={{ vertical: 'large' }}>
+            <Heading size="large" level={1} margin="none">
+              Blog
+            </Heading>
           </Box>
-          <Box>
+          <Box direction="row-responsive" align="start" gap="medium" wrap>
             {posts.map(
               ({ node }) =>
                 node.fields.slug !== '/' && (
