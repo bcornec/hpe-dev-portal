@@ -1,12 +1,15 @@
 ---
+priority: 2
+width: large
 title: HPE 3PAR and Primera
 version: v 2.01.8964
-description: The world's most intelligent storage for mission-critical apps that provides an on-demand experience for instant access to data and is consumable as a service.
+description: The world's most intelligent storage for mission-critical apps that
+  provides an on-demand experience for instant access to data and is consumable
+  as a service.
 image: /img/platforms/3PAR -Primera.svg
-width: large
 frontpage: true
-priority: 1
-tags: ["hpe-3par-and-primera"]
+tags:
+  - hpe-3par-and-primera
 ---
 
 - Power your mission-critical apps with extreme resiliency and unprecedented simplicity
@@ -73,5 +76,7 @@ HPE Docker Volume Plugin, provides persistent block storage for containerized ap
 - [Simplify network operations with Aruba and Ansible](https://www.ansible.com/integrations/networks/aruba)
 - [Leverage the Aruba GitHub repository](https://github.com/aruba)
 
-## Any questions on Aruba?
-Join the [HPEDEV Slack Workspace](https://slack.hpedev.io/) and start a discussion in our [#aruba](https://hpedev.slack.com/archives/C0164BJHKJP) channel.
+---
+
+## Any questions on 3PAR and Primera?
+Join the [HPEDEV Slack Workspace](https://slack.hpedev.io/) and start a discussion in our [#3par-primera](https://hpedev.slack.com/archives/CRU01FTRS) channel.
