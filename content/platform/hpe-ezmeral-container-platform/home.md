@@ -30,9 +30,9 @@ The first open source project in this initiative is Kubernetes Director or KubeD
 
 # Learn from the Experts
 
-[What is the HPE Ezmeral Container Platform?](https://www.youtube.com/embed/fCQpSHDEHY0)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fCQpSHDEHY0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-[Introducing the HPE Ezmeral Container Platform](https://www.youtube.com/embed/4-yGrKZ4M-U)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4-yGrKZ4M-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - - -
 
@@ -40,10 +40,21 @@ The first open source project in this initiative is Kubernetes Director or KubeD
 
 Learn about how to perform many common tasks with the HPE Ezmeral Container Platform related to building your stateful, containerized applications in the 7 part video series. The video series is part of [HPE Ezmeral Learn On-Demand academy](https://learn.ezmeral.software.hpe.com/). Click on the below link for the first episode titled “Create a Kubernetes Cluster”. Also in the series you will find the following demos:
 
-* [Create a Kubernetes Cluster](https://www.youtube.com/embed/OLuQC2yAsCM)
-* [Create a Kubernetes Tenant](https://www.youtube.com/embed/IuagZpLZeRE)
-* [Create a Kubernetes User](https://www.youtube.com/embed/ypKLGGoEGcU)
-* [Deploy a Kubernetes App](https://www.youtube.com/embed/GOabxoGJtNA)
+* Create a Kubernetes Cluster
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OLuQC2yAsCM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Create a Kubernetes Tenant
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IuagZpLZeRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Create a Kubernetes User
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ypKLGGoEGcU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+* Deploy a Kubernetes App
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GOabxoGJtNA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 * [Setup Project Repository](https://www.youtube.com/embed/iV2AAf3xvnA)
 * [Build and Train a Model](https://www.youtube.com/embed/ZBsq9quncpw)
 * [Deploy the Model](https://www.youtube.com/embed/Z6qSrYH0tUQ)
