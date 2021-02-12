@@ -22,6 +22,8 @@ SDKs, Plugins and Language Bindings
 
 [PowerShell Toolkit ![](Github)](https://github.com/HewlettPackard/hpe3par_pstoolkit) <img src="github.png" style="float: left; margin-right: 10px;">
 
+[Arkouda ![](Github)](https://github.com/mhmerrill/arkouda) 
+
 
 HPE 3PAR and Primera StoreServ Storage PowerShell Toolkit provides storage administrators the convenience of managing HPE 3PAR StoreServ Storage Systems from a Microsoft Windows PowerShell environment.
 
