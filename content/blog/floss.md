@@ -8,10 +8,9 @@ tags:
   - Governance
   - History
 ---
-Dans les années 1960, il ne serait venu à l'idée de personne de ne pas fournir un ordinateur avec le logiciel nécessaire à l'exploiter. Ce fut le cas des grands ordinateurs ou mini ordinateurs systématiquement livrés avec leur
-système d'exploitation, brique logicielle indispensable pour faire fonctionner le matériel. Ce logiciel était aussi souvent fourni avec les sources nécessaires à leur compréhension fine par les utilisateurs avertis (J'ai
-commencé à travailler sur un Vax 750 sous Ultrix en 1987 qui était livrable avec les sources de l'Unix Berkeley sous-jacent). Avec l'introduction du PC dans les années 1980, on a vu petit à petit se dessiner une séparation
-entre les acteurs du matériels (qui évoluait vers de plus en plus de standardisation et une baisse des coûts) et ceux du logiciel, ces derniers devenant de plus en plus prépondérants par leur spécialisation ou leur domination
+In the 60's, nobody would ever consider providing a computer without the software needed to exploit it. That was the case of the mainframe or mini-computers which were systematically delivered with their Operating System, mandatory brick to have the hardware work. That software was also often provided with the sources required tp have a clear understanding of how all the whole was working (I started to work on a VAX 750 under Ultrix 1.0 back in 1987, which was delivered with the underlying Berkeley Unix sources).
+
+With the introduction of the PC in the 80"s, slowly we've seen a split hapening between the hardware actors (evolving more and more towards standardization and cost reduction) and the software actors, the latter becoming more and more prominent par their specialization or the hegenomic domination
 hégémonique ne permettant plus au marché de jouer un rôle de régulation. On a vu ceci depuis lors au niveau du système d'exploitation avec MS-DOS puis MS-Windows (écrasant la compétition sous forme de DR-DOS ou Xenix) comme
 dans le domaine des bases de données par exemple avec Oracle (largement dominateur des Informix, Ingres, et autres acteurs de ce temps). Et puis dans ces mouvements de balancier dont l'informatique est coutumière
 (centralisé/décentralisé, propriétaire/ouvert, client lourd/client léger, sur site/à distance ...) est revenue l'idée de fournir des logiciels avec leur code source au milieu des années 1980 avec la création du projet GNU
